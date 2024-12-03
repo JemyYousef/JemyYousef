@@ -4,7 +4,7 @@ I'm a passionate DevOps Engineer with a knack for automating processes and enhan
 
 ## About Me
 - 🔭 Currently, work as a DevOps engineer **@** Freelancer .
-- 🌱 Focused on expanding knowledge in DevOps Projects.
+- 🌱 Focused on expanding knowledge in DevOps Projects .
 
 ## Skills
 
@@ -19,7 +19,7 @@ I'm a passionate DevOps Engineer with a knack for automating processes and enhan
 
 - **HiveBox - Scalable RESTful API for Beekeepers** ( Under Building )
   
-    **Description :** As a DevOps Engineer, I successfully led the HiveBox project, which involved building a scalable RESTful API around openSenseMap to assist beekeepers with their chores. This project was part of the Dynamic DevOps Roadmap and covered various phases of the DevOps lifecycle. 
+    **Description :** As a DevOps Engineer, I successfully led the HiveBox project, which involved building a scalable RESTful API around openSenseMap to assist beekeepers with their chores. This project was part of the Dynamic DevOps Roadmap and covered various phases of the DevOps lifecycle . 
 
 ## Certifications 
 
