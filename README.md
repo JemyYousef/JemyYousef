@@ -8,12 +8,12 @@ I'm a passionate DevOps Engineer with a knack for automating processes and enhan
 
 ## Skills
 
-- **Languages**: Python, C++ , BashScript and familiar with Java & PHP .
-- **Tools & Technologies**: Docke, Kubernetes, Git & GitHub, Jenkins, Prometheus, Grafana, Terraform, Ansible .
-- **Cloud Platforms**: AWS .
-- **Operating Systems**: Linux, Windows .
-- **Frontend Technologies**: HTML, CSS .
-- **Networking**: CCNA, MCSA .
+- **Languages** : Python, C++ , BashScript and familiar with Java & PHP .
+- **Tools & Technologies** : Docke, Kubernetes, Git & GitHub, Jenkins, Prometheus, Grafana, Terraform, Ansible .
+- **Cloud Platforms** : AWS .
+- **Operating Systems** : Linux, Windows .
+- **Frontend Technologies** : HTML, CSS .
+- **Networking** : CCNA, MCSA .
 
 ## Projects
 
