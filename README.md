@@ -23,10 +23,15 @@ I'm a passionate DevOps Engineer with a knack for automating processes and enhan
 
 ## Certifications 
 
-- Introduction to Programming Using Python **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=1737&downloadown=1) .
 - HTML & CSS **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=1404&downloadown=1) .
+- Introduction to Programming Using Python **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=1737&downloadown=1) .
+- Implementation of Computer Network Fundamentals **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=13360&downloadown=1) .
+- Database Fundamentals **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1) .
 - Red Hat System Administration I (RH124) **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=13324&downloadown=1) .
 - Red Hat System Administration II (RH134) **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=14758&downloadown=1) .
+- Ubuntu Linux Essentials **@ MaharaTech - ITIMooca** [Certification-Link](https://maharatech.gov.eg/mod/customcert/view.php?id=14361&downloadown=1) .
+
+
    
 ## Contact Me
 
